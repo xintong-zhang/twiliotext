@@ -27,6 +27,7 @@ group :production do
 end
 gem 'sinatra', '1.1.0'  
 gem 'thin'
+gem 'twilio-ruby'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
